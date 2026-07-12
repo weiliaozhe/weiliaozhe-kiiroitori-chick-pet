@@ -4,6 +4,8 @@ English: A Codex pet bundle for `Kiiroitori chick pet`.
 
 中文： Codex 用的 `Kiiroitori chick pet 鼻孔鸡` 宠物包。
 
+be like :![Uploading 3b5a0b03f1676faba3006a81e466e468.jpg…]() 这里是图片
+
 ## Files / 文件
 
 - `kiiroitori-chick-pet/pet.json`
