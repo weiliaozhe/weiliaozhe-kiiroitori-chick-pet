@@ -2,7 +2,7 @@
 
 English: A Codex pet bundle for `Kiiroitori chick pet`.
 
-中文：这是一个给 Codex 用的 `Kiiroitori chick pet` 宠物包，也就是我说的“鼻孔鸡”。
+中文： Codex 用的 `Kiiroitori chick pet 鼻孔鸡` 宠物包。
 
 ## Files / 文件
 
